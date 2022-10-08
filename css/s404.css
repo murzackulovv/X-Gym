@@ -1,0 +1,18 @@
+img{
+    width: 500px;
+}
+
+.container{
+    height: 700px;
+}
+
+.row{
+     height: 700px;
+}
+
+.col-lg-12{
+    height: 700px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
